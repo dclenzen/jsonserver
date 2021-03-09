@@ -1,0 +1,29 @@
+{
+	"ping": {
+		"result": "pong"
+	},
+	"users": [
+		{
+			"email": "tester@optum.com",
+			"password": "testing"
+		}
+	],
+	"persons": [
+		{
+			"firstname": "spongbob",
+			"lastname": "squarepants",
+			"age": "15",
+			"id": 1,
+			"address": "under the sea",
+			"phoneNumbers": "123-456-7890"
+		},
+		{
+			"firstname": "patrick",
+			"lastname": "star",
+			"age": "16",
+			"id": 2,
+			"address": "under the sea 2",
+			"phoneNumbers": "123-456-9999"
+		}
+	]
+}
